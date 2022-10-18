@@ -2,9 +2,9 @@
 
 ### Description
 Password manager is a project where you can create and keep your login credentials for specific sites. 
-With the "Search" button, you can find your existing data in the database.
-With the "Generate Password" button you can create your password.
-With the "Add" button, you can add your login credentials to data base.
+* With the "Search" button, you can find your existing data in the database.
+* With the "Generate Password" button you can create your password.
+* With the "Add" button, you can add your login credentials to data base.
 
 For this project I used tkinter, pyperclip and JSON data.
 
